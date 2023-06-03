@@ -90,10 +90,10 @@
         </script>
 
 
-        <h2><?php
+        <h3><?php
         "Akdeniz Bölgesinin Yöresel Yemekleri";
         ?>
-        </h2>
+        </h3>
 
         <?php
         print_r(file("text.txt"));
